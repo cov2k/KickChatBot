@@ -13,12 +13,13 @@ the bot listens to chat messages, responds to commands, and keeps an in‑memory
 runs via kickforge’s kickapp
 
 **project structure**
-
+```
 kickchatbot/
 │
 ├── venv/
 ├── .env
 ├── main.py
+```
 
 **installation**
 
